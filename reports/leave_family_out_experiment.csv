@@ -1,0 +1,4 @@
+Held-Out Attack Family,Included Classes,Test Instances,Supervised RF Recall (%),Unsupervised AE (p95) Recall (%),Delta (AE - RF)
+Web Attacks,"Web Attack - Brute Force, Web Attack - XSS, Web Attack - Sql Injection",1071,15.03,4.2,-10.83
+DoS Family,"DoS Hulk, DoS GoldenEye, DoS slowloris, DoS Slowhttptest, Heartbleed",27739,1.29,84.09,82.8
+Patator (Brute Force),"FTP-Patator, SSH-Patator",4574,0.04,0.17,0.13

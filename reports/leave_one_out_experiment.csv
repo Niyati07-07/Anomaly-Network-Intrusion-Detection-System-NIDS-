@@ -1,0 +1,5 @@
+Held-Out Attack (Zero-Day),Test Instances,Supervised RF Recall (%),Unsupervised AE Recall (%),AE Advantage (Delta %)
+Bot,974,0.0,2.67,2.67
+Web Attack - XSS,326,95.4,3.37,-92.02
+Infiltration,18,0.0,83.33,83.33
+DoS Hulk,17285,54.56,89.18,34.61

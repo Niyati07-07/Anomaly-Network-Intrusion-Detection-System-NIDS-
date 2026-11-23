@@ -1,0 +1,7 @@
+{
+    "isolation_forest": 0.48,
+    "one_class_svm": 3.57,
+    "autoencoder": 589.79,
+    "random_forest": 4.51,
+    "xgboost": 1.3
+}

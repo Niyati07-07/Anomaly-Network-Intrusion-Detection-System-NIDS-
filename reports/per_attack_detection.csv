@@ -1,0 +1,15 @@
+Attack Class,Test Count,Status,Isolation Forest,One-Class SVM,Autoencoder (p95),Autoencoder (p98),Autoencoder (p99),Autoencoder (val-F1-optimal),Random Forest,XGBoost
+Bot,974,Stable,2.05,2.05,2.67,2.05,2.05,12.83,94.87,96.41
+DDoS,12801,Stable,18.09,51.14,62.94,57.6,50.85,80.06,99.94,99.98
+DoS GoldenEye,5143,Stable,25.69,44.95,73.23,51.45,47.23,97.98,99.96,99.9
+DoS Hulk,17285,Stable,82.16,84.35,89.18,85.05,84.47,95.09,99.96,99.98
+DoS Slowhttptest,2614,Stable,83.21,83.78,94.11,84.12,14.65,98.05,99.92,99.92
+DoS slowloris,2692,Stable,59.99,58.8,62.48,60.96,36.29,66.49,99.81,99.85
+FTP-Patator,2965,Stable,0.0,0.07,0.13,0.1,0.0,68.09,100.0,100.0
+Heartbleed,5,Unstable (<20),100.0,100.0,100.0,100.0,100.0,100.0,100.0,80.0
+Infiltration,18,Unstable (<20),88.89,38.89,83.33,72.22,44.44,88.89,77.78,72.22
+PortScan,9068,Stable,0.23,0.0,5.69,2.07,0.72,74.04,99.97,99.97
+SSH-Patator,1609,Stable,0.12,0.12,0.25,0.19,0.12,89.93,99.88,99.94
+Web Attack - Brute Force,735,Stable,4.63,0.14,4.63,4.63,4.49,9.52,99.59,99.46
+Web Attack - Sql Injection,10,Unstable (<20),0.0,0.0,0.0,0.0,0.0,10.0,100.0,100.0
+Web Attack - XSS,326,Stable,3.07,2.76,3.37,3.07,2.76,3.99,99.39,99.08
