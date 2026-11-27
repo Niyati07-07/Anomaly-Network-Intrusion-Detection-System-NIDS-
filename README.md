@@ -87,7 +87,7 @@ Built in Keras 3 (PyTorch backend):
 
 ---
 
-## 📊 Experimental Results
+## 📊 Experimental Results-
 
 ### 1. Final Comparison on Test Set (`test.parquet`, $N = 140,048$)
 
